@@ -1,0 +1,495 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fb_get_",
+				"fb_get_friends_2"
+			],
+			[
+				"Obj",
+				"OBJECT"
+			],
+			[
+				"fi",
+				"fieldOfView"
+			],
+			[
+				"field",
+				"fieldOfViewText"
+			],
+			[
+				"Right",
+				"RotateRight"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"we",
+				"Web Inspector"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"emm",
+				"Set Syntax: Emmet"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 674.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"exit",
+			"clear",
+			"stop",
+			"debug_stop",
+			"swi_debug_stop",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/shelsh/Dev/safetextslap-web/Login.js",
+		"/Users/shelsh/Dev/safetextslap-web/Slap.css",
+		"/Users/shelsh/Dev/safetextslap-web/Login.html",
+		"/Users/shelsh/Dev/safetextslap-web/files/views/assets/js/GlobalVars.js",
+		"/Users/shelsh/Dev/safetextslap-web/more-info.html",
+		"/Users/shelsh/Dev/safetextslap-web/Kudos.html",
+		"/Users/shelsh/Dev/safetextslap-web/Slap.html",
+		"/Users/shelsh/Dev/safetextslap-web/Slap.js",
+		"/Users/shelsh/.ssh/id_rsa",
+		"/Users/shelsh/Dev/safetextslap-web/files/views/assets/css/style.css",
+		"/Users/shelsh/Dev/safetextslap-web/Login.css",
+		"/Users/shelsh/Dev/safetextslap-web/.git/MERGE_MSG",
+		"/Users/shelsh/Dev/safetextslap-web/Kudos.js",
+		"/Users/shelsh/Dev/safetextslap-web/Kudos.css",
+		"/Users/shelsh/Dev/safetextslap-web/files/resources/js/swipe.js",
+		"/Users/shelsh/Dev/safetextslap-web/Home.js",
+		"/Users/shelsh/Dev/safetextslap-web/files/views/assets/image/logo_1379647242.png",
+		"/Users/shelsh/Dev/safetextslap-web/files/views/assets/css/slap.css",
+		"/Users/shelsh/Dev/safetextslap-web/files/views/assets/js/services/service.js",
+		"/Users/shelsh/Dev/safetextslap-web/files/resources/lib/base/appery.js",
+		"/Users/shelsh/Desktop/images/kudos-more-info.png",
+		"/Users/shelsh/Desktop/images/kudos-smile.png",
+		"/Users/shelsh/Desktop/images/safe-text-bg.png",
+		"/Users/shelsh/Dev/safe-text/files/views/assets/css/slap.css",
+		"/Users/shelsh/Dev/safe-text/Slap.css",
+		"/private/etc/hosts",
+		"/Users/shelsh/Dev/safe-text/FacebookPublishing_NewFeed.html",
+		"/Users/shelsh/Dev/Unity/teslaLeap/Assets/Plugins/JSONObject.cs",
+		"/Users/shelsh/Dev/Unity/teslaLeap/Assets/Plugins/ICSharpCode.SharpZipLib.dll",
+		"/Users/shelsh/Dev/Unity/teslaLeap/Assets/Plugins/SimpleJSON.cs",
+		"/Users/shelsh/Dev/backboneboilerplate/templates/layout.html",
+		"/Users/shelsh/Dev/backboneboilerplate/js/main.js",
+		"/Users/shelsh/Dev/friendsource/friendsource-fb/app/coffeescripts/modules/views/AskQuestionView.coffee",
+		"/Users/shelsh/Dev/backboneboilerplate/css/styles.css",
+		"/Users/shelsh/Dev/backboneboilerplate/templates/header/menu.html",
+		"/Users/shelsh/Dev/backboneboilerplate/js/views/cars/Car.js",
+		"/Users/shelsh/Dev/backboneboilerplate/templates/car3d/car3d.html",
+		"/Users/shelsh/Dev/backboneboilerplate/index.html",
+		"/Users/shelsh/Dev/backboneboilerplate/package.json",
+		"/Users/shelsh/Dev/backboneboilerplate/js/router.js",
+		"/Users/shelsh/Dev/Unity/teslaLeap/Assets/scripts/Camera Scripts/MouseOrbit.js",
+		"/Users/shelsh/Dev/UnityLeap/UnityLeap.sublime-project",
+		"/Users/shelsh/Dev/Unity/teslaLeap/Assets/data/tesla.json",
+		"/Users/shelsh/Dev/Unity/teslaLeap/Assets/data/tesla.js",
+		"/Users/shelsh/Dev/backbone-test/package.json",
+		"/Users/shelsh/Dev/backbone-test/Gruntfile.js",
+		"/Users/shelsh/Dev/UnityLeap/deploy/examples/camera.html",
+		"/Users/shelsh/Library/Application Support/Sublime Text 3/Packages/User/swi.sublime-settings",
+		"/Users/shelsh/Library/Application Support/Sublime Text 3/Packages/Web Inspector 3/swi.sublime-settings",
+		"/Users/shelsh/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/shelsh/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/shelsh/Dev/UnityLeap/dev/unity/TeslaCR/Assets/Scripts/JavaScripts/Car.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/gesture.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/hand.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/index.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/interaction_box.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/node_connection.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/pipeline.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/pointable.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/protocol.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/ui.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/ui/cursor.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/ui/region.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/base_connection.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/circular_buffer.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/connection.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/controller.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/lib/frame.js",
+		"/Users/shelsh/Dev/UnityLeap/bower.json",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/node_modules/browserify/readme.markdown",
+		"/Users/shelsh/Dev/UnityLeap/deploy/js/leap.min.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/examples/visualizer.html",
+		"/Users/shelsh/Dev/UnityLeap/deploy/examples/visualizer.html",
+		"/Users/shelsh/Dev/three.js/utils/converters/fbx/README.md",
+		"/Users/shelsh/Dev/three.js/utils/converters/fbx/convert_to_threejs.py",
+		"/Users/shelsh/Dev/UnityLeap/dev/assets/tesla-sedan-s-2013.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/three/examples/js/Car.js",
+		"/Users/shelsh/Dev/UnityLeap/dev/unity/TeslaCR/Assets/Plugins/pxsLeapInput.cs",
+		"/Users/shelsh/Dev/UnityLeap/dev/unity/TeslaCR/Assets/pxsLeapInput.js",
+		"/Users/shelsh/Dev/UnityLeap/dev/unity/TeslaCR/Assets/Plugins/pxsLeapInput.js",
+		"/Users/shelsh/Dev/UnityLeap/node_modules/leapjs/examples/dumper.html",
+		"/Users/shelsh/Downloads/pxsLeapInput.cs",
+		"/Users/shelsh/Dev/UnityLeap/dev/bower.json",
+		"/Users/shelsh/Dev/UnityLeap/package.json",
+		"/Users/shelsh/Dev/UnityLeap/Gruntfile.coffee"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"slapper",
+			"console.",
+			"click",
+			"fb_get_id",
+			"fb_get_frie",
+			"fb_get_id",
+			"fb_get_token",
+			"setItem",
+			"click",
+			"get_frien",
+			"url",
+			"setItem",
+			"getFriends",
+			"ready",
+			"click",
+			"swipe",
+			"click",
+			"graphic-box",
+			"Slap_mobileimage_24_slap",
+			"slap.css",
+			"li",
+			"click",
+			"200",
+			"slapeeimage",
+			"200",
+			"ui-btn",
+			"click",
+			"200",
+			"min-height",
+			"div",
+			"graphic_box",
+			"mobileimage",
+			"1px",
+			"post",
+			"access",
+			"access_token",
+			"datasource",
+			"restservice",
+			"listview",
+			"jqm",
+			"listview",
+			"refreshscreenformelements",
+			"$t",
+			"mappingplanentity",
+			"__mappingplan",
+			"buildmappingplan",
+			"datasource",
+			"fb_get_friends",
+			"execute:",
+			"execute(",
+			"fb_get_friends",
+			"header",
+			"Slap_mobilebutton_35",
+			"show",
+			"search",
+			"appery_label",
+			"listview",
+			"refreshscreenformelements",
+			"$t",
+			"getfriends",
+			"friends",
+			"initOtherViews",
+			"this",
+			"projects",
+			"time",
+			"();\n",
+			"copy",
+			"watch",
+			"history",
+			"almond",
+			"theme",
+			"_",
+			"creategesture",
+			"gestures",
+			"data.gestures",
+			"creategesture",
+			"circle",
+			"circlegesture",
+			"frame",
+			"console.",
+			"pxsleapinput",
+			"leap",
+			"unityengine",
+			"steer",
+			"throttle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"project": "nodecellar.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"slap.js",
+				"Slap.js"
+			],
+			[
+				"login",
+				"Login.js"
+			],
+			[
+				"slap",
+				"Slap.css"
+			],
+			[
+				"mor",
+				"more-info.html"
+			],
+			[
+				"ku",
+				"Kudos.html"
+			],
+			[
+				"glo",
+				"files/views/assets/js/GlobalVars.js"
+			],
+			[
+				"lo",
+				"Login.css"
+			],
+			[
+				"login.js",
+				"Login.js"
+			],
+			[
+				"",
+				"files/views/assets/css/style.css"
+			],
+			[
+				"slap.c",
+				"files/views/assets/css/slap.css"
+			],
+			[
+				"login.htm",
+				"Login.html"
+			],
+			[
+				"k",
+				"Kudos.html"
+			],
+			[
+				"kudos.js",
+				"Kudos.js"
+			],
+			[
+				"kudo",
+				"Kudos.html"
+			],
+			[
+				"slap.css",
+				"files/views/assets/css/slap.css"
+			],
+			[
+				"slpa",
+				"Slap.css"
+			],
+			[
+				"serv",
+				"files/views/assets/js/services/service.js"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"layou",
+				"templates/layout.html"
+			],
+			[
+				"router",
+				"js/router.js"
+			],
+			[
+				"camera",
+				"deploy/examples/camera.html"
+			],
+			[
+				"gestur",
+				"node_modules/leapjs/lib/gesture.js"
+			],
+			[
+				"car.js",
+				"dev/unity/TeslaCR/Assets/Scripts/JavaScripts/Car.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
